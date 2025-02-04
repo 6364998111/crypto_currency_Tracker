@@ -17,7 +17,7 @@ A simple web application that fetches and displays real-time cryptocurrency pric
 ---
 
 ## 🖥️ **Demo**
-👉 [Live Demo](index.html) (Add GitHub Pages link here)  
+👉 [Live Demo](demo.png)   
 
 ---
 
